@@ -1,2 +1,9 @@
-# Pemrograman-Berorientasi-Objek
-Mata Kuliah Pemrograman Berorientasi Objek Semester 2 - TI-1A
+Mata Kuliah:
+
+💻 Pemrograman Berbasis Objek 💻
+
+🪄 Semester 2
+🪄 TI-1A 
+
+⚙️ Phyton
+⚙️ Google Colab
